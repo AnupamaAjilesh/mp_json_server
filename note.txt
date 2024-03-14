@@ -1,0 +1,8 @@
+JSON-SERVER
+
+-initiate package .JSON
+   npm init -y 
+-create package=lock.JSON 
+    npm i 
+install json-server
+  npm i json-server{node_moduls created automatically}
